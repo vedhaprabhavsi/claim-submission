@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+claim-submission,com.cognizant.claimsubmission.model,ClaimDbSequence,26,0,0,0,12,0,6,0,6,0
+claim-submission,com.cognizant.claimsubmission.model,Claim,57,91,0,0,20,21,10,11,10,11
+claim-submission,com.cognizant.claimsubmission,ClaimSubmissionApplication,5,3,0,0,2,1,1,1,1,1
+claim-submission,com.cognizant.claimsubmission.controller,ClaimController,30,3,0,0,8,1,4,1,4,1
+claim-submission,com.cognizant.claimsubmission.service,ClaimSequenceGenerator,38,3,2,0,4,1,2,1,1,1
+claim-submission,com.cognizant.claimsubmission.service,ClaimService,15,3,0,0,3,1,3,1,3,1

@@ -1,0 +1,5 @@
+projectKey=com.cognizant:claim-submission
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.cognizant:claim-submission
+ceTaskId=AX0am2RW0FOL_PGrRwxt
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX0am2RW0FOL_PGrRwxt

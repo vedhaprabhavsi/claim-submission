@@ -1,0 +1,7 @@
+com\cognizant\claimsubmission\service\ClaimSequenceGenerator.class
+com\cognizant\claimsubmission\ClaimSubmissionApplication.class
+com\cognizant\claimsubmission\service\ClaimService.class
+com\cognizant\claimsubmission\model\Claim.class
+com\cognizant\claimsubmission\Repository\ClaimRepository.class
+com\cognizant\claimsubmission\controller\ClaimController.class
+com\cognizant\claimsubmission\model\ClaimDbSequence.class
